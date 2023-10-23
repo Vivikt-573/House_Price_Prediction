@@ -1,6 +1,6 @@
 ## 🏠💵 House-Price-Prediction 
 With this comprehensive portfolio, I cordially invite you to explore the in-depth study conducted on the dynamics of house prices in King County, specifically in the vibrant city of Seattle.
-- My Kaggle - https://www.kaggle.com/code/viviktpharale/house-price-prediction-eda-linear-ridge-lasso
+- Kernel - GitHub - House Price Prediction
 
 ## ℹ️ Introduction
 ![44771](https://github.com/Vivikt-573/House-Price-Prediction---Regression-Models/assets/148704966/87e87c0f-aef0-45e7-a527-c3310da0afc0)
