@@ -1,5 +1,6 @@
 ## 🏠💵 House-Price-Prediction 
-Basic Overview
+With this comprehensive portfolio, I cordially invite you to explore the in-depth study conducted on the dynamics of house prices in King County, specifically in the vibrant city of Seattle.
+My Kaggle - https://www.kaggle.com/code/viviktpharale/house-price-prediction-eda-linear-ridge-lasso
 
 ## ℹ️ Introduction
 ![44771](https://github.com/Vivikt-573/House-Price-Prediction---Regression-Models/assets/148704966/87e87c0f-aef0-45e7-a527-c3310da0afc0)
@@ -7,6 +8,8 @@ Image Credits - https://www.freepik.com/author/brgfx - brgfx
 The project revolves around a comprehensive analysis of house sale prices in King County, encompassing the city of Seattle, with a dataset spanning the period from May 2014 to May 2015. This analysis aims to gain insights into the factors influencing house prices and to develop predictive models for future price forecasts.
 
 ### 💾 Dataset
+- The Dataset is used from Kaggle - House Sales in King County, USA
+- To Download/Use - https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data
 
 ### 🛠️ Tools
 - Python
