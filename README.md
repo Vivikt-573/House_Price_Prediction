@@ -48,14 +48,18 @@ The primary aim of this project is to understand and predict house prices in Kin
 **Positive Impact on Price:**
 - Features such as 'sqft_living,' 'grade,' 'sqft_above,' 'sqft_basement,' 'view,' 'waterfront,' 'lat,' and 'sqft_living15' have positive coefficients in all three models.
 - This indicates that an increase in these features tends to result in a higher predicted price for the property.
+  
 **Negative Impact on Price:**
 - Features like 'bedrooms,' 'yr_built,' 'long,' 'sqft_lot,' 'zipcode,' and 'sqft_lot15' have negative coefficients in all three models.
 - This means that an increase in these features is associated with a lower predicted price for the property.
+  
 **Comparison of Models:**
 - The magnitude of coefficients may vary between models. For example, 'sqft_living' has the highest positive coefficient in all three models, but the values differ slightly. Lasso regression, due to its feature selection property, sets some coefficients to zero. In this case, it sets zipcode,sqft_basement,' 'sqft_lot,' and 'long' coefficients to zero, indicating that these features are not essential in predicting the price.
+  
 **Effect of Regularization:**
 - Ridge and Lasso regression introduce regularization to the model. This is reflected in the Ridge and Lasso coefficients, which are slightly smaller than the Linear coefficients for most features.
 - Regularization helps prevent overfitting and can make the model more robust.
+  
 **Feature Importance:**
 - 'lat' and 'sqft_living' appear to be among the most influential features, with high positive coefficients in all three models.
 - 'sqft_basement' is essentially eliminated in the Lasso model, suggesting it has a limited impact on the price.
